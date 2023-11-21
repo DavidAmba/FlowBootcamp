@@ -17,7 +17,7 @@
    - Commit 1: Explain the difference between a script and a transaction
 
 
-## Week 2 & 3: JAN 26th - 
+# Week 2 & 3: JAN 26th - 
 ## Chapter 2: Introduction to Cadence Language
 
 -  Lesson 1: Overview of Cadence Language
