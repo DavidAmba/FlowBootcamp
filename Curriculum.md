@@ -7,7 +7,7 @@
 - Lesson 1: Understanding Blockchain Technology
     - Scope, Benefits, and Opportunities
 
-January 20th
+# January 20th
 - Lesson 2: Introduction to Flow Blockchain
 - Lesson 3: Flow Ecosystem Overview
 - Lesson 4: App Custody and Secure User Data Handling
@@ -44,7 +44,7 @@ January 20th
     - Commit 8: Tag areas where certain variables can be read. Upload the commit of your answers with this picture.
 
 
-Advanced: FEB 2ND
+# Advanced: FEB 2ND
 ## Chapter 4: Variables and Types in Cadence
 
 Lesson 1: Variables and Constants in Cadence
@@ -71,7 +71,7 @@ Lesson 1: Variables and Constants in Cadence
 
 
 # Week 4: FEB 9th
-Topic: Smart Contract Development
+## Topic: Smart Contract Development
 
 ## Chapter 6: Building Your First Smart Contract
 
