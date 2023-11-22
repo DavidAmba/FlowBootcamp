@@ -1,4 +1,4 @@
-# Beginner: Week 1 JAN 19TH (Intro Day)
+ # Beginner: Week 1 JAN 19TH (Intro Day)
 
 ## Topic: Introduction to Blockchain Technology & Flow
 
